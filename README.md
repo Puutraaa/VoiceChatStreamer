@@ -21,7 +21,7 @@ _🎯 Follow me and star this repo for more telegram bots._
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Puutraaa/VoiceChatStreamer)
 
-### 🏷 Radio Stations. [Click here](https://github.com/AnjanaMadu/radio_stations)
+### 🏷 Radio Stations [Click here](https://github.com/AnjanaMadu/radio_stations)
 
 _If you like to add your country radio stations, Please open pull request [here](https://github.com/AnjanaMadu/radio_stations)_
 
